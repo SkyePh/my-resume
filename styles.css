@@ -7,3 +7,14 @@
 .hero-h1{
     font-family: "Lora", serif;
 }
+
+.info{
+    padding: 150px;
+    font-family: "Lora", serif;
+}
+
+@media screen and (max-width: 767px) {
+    .info {
+        padding: 0;
+    }
+}
